@@ -1,7 +1,7 @@
 ## PG-PROMISE-EXERCISES
 Exercises which tickles your JavaScript Promises knowledge.
 
-Base repository for the [promises-applied](https://github.com/GuildCrafts/web-development-js/issues/186) goal.
+Base repository for the [promises-applied](http://jsdev.learnersguild.org/goals/186) goal.
 
 ## Getting Started
 
